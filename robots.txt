@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ucu-cs.github.io/UCU_Linux_Club/sitemap.xml
